@@ -1,0 +1,32 @@
+name: recipe
+description: Your app description.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.0-17.0.dev <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - C:/project/vvv/image/
+    - C:/project/vvv/image/spaghetti.jpg
+    - C:/project/vvv/image/chicken_curry.jpg
+    - C:/project/vvv/image/hamburger.jpg
+    - C:/project/vvv/image/chocolate_chip_cookies.jpg
+    - C:/project/vvv/image/kimchi_stew.jpg
+    - C:/project/vvv/image/pizza.jpg
+    - C:/project/vvv/image/salad.jpg
+    - C:/project/vvv/image/soy_sauce_rice.jpg
+    - C:/project/vvv/image/steak.jpg
+
+  uses-material-design: true
